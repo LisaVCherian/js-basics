@@ -1,0 +1,25 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LisaVCherian/js-basics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LisaVCherian/js-basics/issues"
+  },
+  "homepage": "https://github.com/LisaVCherian/js-basics#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0",
+    "inspirational-quotes": "^2.0.1",
+    "jokes-cli": "^1.1.2",
+    "yo-mamma": "^1.3.0"
+  }
+}
